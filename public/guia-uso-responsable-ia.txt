@@ -1,0 +1,36 @@
+SPIRALIA TRAINING
+Antes de usar IA: seis comprobaciones para el trabajo
+Edición: 10 de septiembre de 2026
+
+1. HERRAMIENTA
+Usa una herramienta y una cuenta autorizadas para esa tarea. Una licencia corporativa no permite cualquier uso ni cualquier dato.
+
+2. INFORMACIÓN
+Identifica datos personales, información confidencial y derechos de terceros. Comparte solo lo necesario y permitido. Eliminar nombres no siempre anonimiza un documento.
+
+3. FINALIDAD
+Define para qué necesitas la IA y qué resultado esperas. Si el uso afecta a personas o decisiones sensibles, consulta al equipo responsable antes de empezar.
+
+4. VERIFICACIÓN
+Comprueba cifras, fuentes, omisiones y supuestos. Una respuesta convincente puede ser falsa. La propia IA no es una fuente independiente para verificar su respuesta.
+
+5. RESPONSABILIDAD
+Determina quién revisa y aprueba el resultado. Aplica la política interna y consulta cuando el caso supere tu competencia.
+
+6. INCIDENTES
+Si compartes información por error o detectas un problema, comunícalo inmediatamente por el canal interno. Borrar el chat no garantiza que el proveedor haya eliminado los datos.
+
+PARA LA EMPRESA
+Acordar usos permitidos, responsables, formación según el perfil, registros y una revisión cuando cambie el contexto. Esta guía debe adaptarse a la política de cada organización.
+
+FUENTES
+Artículo 4, reformado en 2026:
+https://www.boe.es/buscar/doc.php?id=DOUE-L-2026-81147&lang=es
+RGPD:
+https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80807
+AEPD, recomendaciones de privacidad al usar IA:
+https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-decalogo-recomendaciones-proteger-privacidad-al-usar-ia
+
+Recurso de sensibilización. No es asesoramiento jurídico ni una certificación de cumplimiento.
+
+info@spiralia.es | https://spiralia.es/training/
